@@ -1,0 +1,6 @@
+{
+  "name": "Kaam Nearby",
+  "description": "Hyperlocal job search platform connecting workers with nearby companies, with distance filters, direct calling, and arrival tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
